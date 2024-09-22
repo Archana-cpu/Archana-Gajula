@@ -5,7 +5,7 @@ Empowering Insights and Sustainability through Data Analytics and Clear Document
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archanagajula/)](https://www.linkedin.com/in/archanagajula/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@archanakarnatakam@gmail.com)](mailto:mail@archanakarnatakam@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=archanakarnatakam@gmail.com)](mailto:archanakarnatakam@gmail.com)
 
 ## ⚡ Skills:
 - SQL
