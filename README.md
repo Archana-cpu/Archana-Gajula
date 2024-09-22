@@ -4,12 +4,13 @@
 I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/jayrajroshan/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@jayrajroshan1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archanagajula/)](https://www.linkedin.com/in/archanagajula/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@archanakarnatakam@gmail.com)](mailto:mail@archanakarnatakam@gmail.com)
 
 ## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+- SQL
+- Python
+- Machine Learning for Data Analytics
+- MS Office
+- Power BI, tableau, Looker Studio
+- DBT, Fivetran
